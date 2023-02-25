@@ -1,1 +1,1 @@
-# odin-recipes
+This is the beginning of my journey making websites and eventually a career into Software Development.
